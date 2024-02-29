@@ -1,5 +1,5 @@
 const config = {
-    user: 'rayyan',
+    user: 'yousaf',
     password: '1234',
     server: 'DESKTOP-RO1S0F9',
     database: 'dbPoject',
